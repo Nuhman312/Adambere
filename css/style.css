@@ -1,19 +1,23 @@
 body {
+    text-align: center;
     background-color:#f5f5f5;
     margin: 0;
-    text-align: center;
 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-.imageipon {
-    background-color: whitesmoke;
+
+.image2 {
+padding-bottom: 50px;
 }
 h1 {
+    padding-right: 200px;
+    text-align: center;
      color: #63b7af ;
 }
 div {
+    position: fixed;
     background-color: #1b1b2f;
-padding-bottom: 20px;
-padding-top: 20px;
+    width: 1500px;
+    height: 80px;
 }
 p{
     font: 1em sans-serif italic;
